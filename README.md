@@ -3,6 +3,8 @@
 
 - 🌱 Learning about: **HTML, CSS, Javascript and C#.
 - 💙 Interests: books, movies, series and documentaries.
+- - 🐦 Following me on <a href="https://web.digitalinnovation.one/home">DigitalInnovationOne</a>.
+
 
 <div align="center">
   <a href="https://github.com/edjanilson">
@@ -25,7 +27,8 @@
   <div> 
 
   <a href = "mailto:edjanilsonflorencioads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edjanilson-flor%C3%AAncio-8aa7b679/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>      
+  <a href="https://www.linkedin.com/in/edjanilson-flor%C3%AAncio-8aa7b679/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+    
 
 </div>
   
