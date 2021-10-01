@@ -3,7 +3,7 @@
 
 - 🌱 Learning about: **HTML, CSS, Javascript and C#.
 - 💙 Interests: books, movies, series and documentaries.
-- 🐦 Following me on <a href="https://web.digitalinnovation.one/home">DigitalInnovationOne</a>.
+- 🐦 This place is where I study about programming. Follow me there <a href="https://web.digitalinnovation.one/home">DigitalInnovationOne</a>.
 
 
 <div align="center">
