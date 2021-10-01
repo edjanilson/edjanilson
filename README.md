@@ -1,4 +1,4 @@
-### Olá! Eu sou Edjanilson Florêncio 👋
+### Hello! I am Edjanilson Florêncio 👋
 
 
 - 🌱 Learning about: **HTML, CSS, Javascript and C#.
