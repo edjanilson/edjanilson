@@ -1,7 +1,7 @@
 ### Hello! I am Edjanilson Florêncio 👋
 
 
-- 🌱 Learning about: **HTML, CSS, Javascript and C#.
+- 🌱 Learning about: **HTML, CSS, Javascript, C#, Sql Server and MySql.
 - 💙 Interests: books, movies, series and documentaries.
 - 🐦 This place is where I study about programming. Follow me there <a href="https://web.digitalinnovation.one/home">DigitalInnovationOne</a>.
 
