@@ -3,7 +3,7 @@
 
 - 🌱 Learning about: **HTML, CSS, Javascript, C#, Sql Server and MySql.
 - 💙 Interests: books, movies, series and documentaries.
-- 🐦 Follow me there <a href="https://web.digitalinnovation.one/home">DigitalInnovationOne</a>.
+- 🐦 Follow me on <a href="https://web.digitalinnovation.one/home">DigitalInnovationOne</a>.
 
 
 <div align="center">
